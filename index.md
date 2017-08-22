@@ -19,12 +19,12 @@ The Go programming language is an open source project to make programmers more p
 
 ## 交流社区
 
-  ### 中文社区
+ ### 中文社区
   - [Golang 中国](http://www.golangtc.com/)：国内较早的 Go 社区，汇聚各类信息与服务
   - [Study Golang](http://studygolang.com/)：国内 Go 社区先驱，同样汇聚各类信息与服务
   - [Revel 交流论坛](http://gorevel.cn/)：[Revel](https://github.com/revel/revel) 框架的中文社区
 
-  ### 英文社区
+ ### 英文社区
   - [Go Forum](https://forum.golangbridge.org/)：Go 语言爱好者英文交流论坛
   - [golang-nuts 邮件列表](https://groups.google.com/forum/#!forum/golang-nuts)：Go 语言官方指定邮件列表讨论区
   - [Go+ 社区](https://plus.google.com/u/0/communities/114112804251407510571)：Go 语言官方指定 G+ 社区
