@@ -1,7 +1,7 @@
 # [Go 指导](https://openset.github.io/Go/)
 The Go programming language is an open source project to make programmers more productive.
 
-## [](#catalog)目录
+## 目录
   - [基础学习](#基础学习)
   - [进阶汇总](#进阶汇总)
   - [社区论坛](#社区论坛)
