@@ -1,5 +1,12 @@
-# [Go](https://openset.github.io/Go/)
+# [Go 指导](https://openset.github.io/Go/)
 The Go programming language is an open source project to make programmers more productive.
+
+## 目录
+  - [基础学习](#基础学习)
+  - [进阶汇总](#进阶汇总)
+  - [社区论坛](#社区论坛)
+    - [中文社区](#中文社区)
+    - [英文社区](#英文社区)
 
 ## 基础学习
   - [官方文档](https://golang.org/doc/)
@@ -11,13 +18,13 @@ The Go programming language is an open source project to make programmers more p
   - [Go by Example](https://gobyexample.com/)
   - [在线运行](https://play.golang.org/)
 
-## 进阶汇总
+## 进阶学习
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
   - [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   - [web 开发](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
   - [Go开源项目速查表](http://www.ctolib.com/cheatsheets-go-project.html)
 
-## 交流社区
+## 社区论坛
 
 ### 中文社区
   - [Golang 中国](http://www.golangtc.com/)：国内较早的 Go 社区，汇聚各类信息与服务
