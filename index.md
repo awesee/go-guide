@@ -1,12 +1,10 @@
-# [Go 指导](https://openset.github.io/Go/)
+# [Go 指导](https://openset.github.io/go-guide/)
 The Go programming language is an open source project to make programmers more productive.
 
 ## 目录
   - [基础学习](#基础学习)
   - [进阶汇总](#进阶汇总)
   - [社区论坛](#社区论坛)
-    - [中文社区](#中文社区)
-    - [英文社区](#英文社区)
 
 ## 基础学习
   - [官方文档](https://golang.org/doc/){:target="_blank"}
@@ -19,19 +17,16 @@ The Go programming language is an open source project to make programmers more p
   - [在线运行](https://play.golang.org/){:target="_blank"}
 
 ## 进阶学习
+  - [Awesome Go:](https://awesome-go.com/){:target="_blank"} A curated list of awesome Go frameworks, libraries and software.
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index){:target="_blank"}
   - [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example){:target="_blank"}
   - [web 开发](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md){:target="_blank"}
   - [Go开源项目速查表](http://www.ctolib.com/cheatsheets-go-project.html){:target="_blank"}
 
 ## 社区论坛
-
-### 中文社区
   - [Golang 中国:](http://www.golangtc.com/){:target="_blank"} 国内较早的 Go 社区，汇聚各类信息与服务
   - [Study Golang:](http://studygolang.com/){:target="_blank"} 国内 Go 社区先驱，同样汇聚各类信息与服务
   - [Revel 交流论坛:](http://gorevel.cn/){:target="_blank"} [Revel](https://github.com/revel/revel){:target="_blank"} 框架的中文社区
-
-### 英文社区
   - [Go Forum:](https://forum.golangbridge.org/){:target="_blank"} Go 语言爱好者英文交流论坛
   - [golang-nuts 邮件列表:](https://groups.google.com/forum/#!forum/golang-nuts){:target="_blank"} Go 语言官方指定邮件列表讨论区
   - [Go+ 社区:](https://plus.google.com/u/0/communities/114112804251407510571){:target="_blank"} Go 语言官方指定 G+ 社区
