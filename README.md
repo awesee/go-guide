@@ -3,7 +3,7 @@ The Go programming language is an open source project to make programmers more p
 
 ## 目录
   - [基础学习](#基础学习)
-  - [进阶汇总](#进阶汇总)
+  - [进阶学习](#进阶学习)
   - [社区论坛](#社区论坛)
 
 ## 基础学习
