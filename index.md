@@ -20,6 +20,7 @@ The Go programming language is an open source project to make programmers more p
   - [在线运行](https://play.golang.org/){:target="_blank"}
 
 ## 进阶学习
+  - [GoDoc:](https://godoc.org/){:target="_blank"} Search for Go Packages.
   - [Awesome Go:](https://awesome-go.com/){:target="_blank"} A curated list of awesome Go frameworks, libraries and software.
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index){:target="_blank"}
   - [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example){:target="_blank"}
