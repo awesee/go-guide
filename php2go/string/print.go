@@ -1,6 +1,6 @@
-package main
+package string
 
-func main() {
+func Print() {
 
 	//print "I love Shanghai!";
 	print("I love Shanghai!")
