@@ -27,6 +27,7 @@ The Go programming language is an open source project to make programmers more p
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
   - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
   - [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+  - [Go for PHPer](https://openset.github.io/php2go/)
   - [web 开发](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
   - [Go 语言包管理](https://gopm.io/)
   - [XORM:](http://xorm.io/) 简单而强大的 Go 语言ORM框架
