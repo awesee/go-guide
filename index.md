@@ -7,7 +7,7 @@ The Go programming language is an open source project to make programmers more p
   - [社区论坛](#社区论坛)
 
 ## 基础学习
-  - [官方文档](https://golang.org/doc/){:target="_blank"}
+  - [官方文档](https://golang.org/doc/){:target="_blank"} [Golang](https://golang.google.cn/){:target="_blank"}
   - [Go wiki](https://github.com/golang/go/wiki){:target="_blank"}
   - [How to Write Go Code](https://golang.org/doc/code.html){:target="_blank"}
   - [Package Documentation:](https://golang.org/pkg/){:target="_blank"} The documentation for the Go standard library.
@@ -34,7 +34,7 @@ The Go programming language is an open source project to make programmers more p
   - [Go开源项目速查表](http://www.ctolib.com/cheatsheets-go-project.html){:target="_blank"}
 
 ## 社区论坛
-  - [Golang 中国:](http://www.golangtc.com/){:target="_blank"} 国内较早的 Go 社区，汇聚各类信息与服务
+  - [Golang 中国:](https://www.golangtc.com/){:target="_blank"} 国内较早的 Go 社区，汇聚各类信息与服务
   - [Study Golang:](http://studygolang.com/){:target="_blank"} 国内 Go 社区先驱，同样汇聚各类信息与服务
   - [Revel 交流论坛:](http://gorevel.cn/){:target="_blank"} [Revel](https://github.com/revel/revel){:target="_blank"} 框架的中文社区
   - [Go Forum:](https://forum.golangbridge.org/){:target="_blank"} Go 语言爱好者英文交流论坛
