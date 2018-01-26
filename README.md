@@ -34,7 +34,7 @@ The Go programming language is an open source project to make programmers more p
   - [Go开源项目速查表](http://www.ctolib.com/cheatsheets-go-project.html)
 
 ## 社区论坛
-  - [Golang 中国:](http://www.golangtc.com/) 国内较早的 Go 社区，汇聚各类信息与服务
+  - [Golang 中国:](https://www.golangtc.com/) 国内较早的 Go 社区，汇聚各类信息与服务
   - [Study Golang:](http://studygolang.com/) 国内 Go 社区先驱，同样汇聚各类信息与服务
   - [Revel 交流论坛:](http://gorevel.cn/) [Revel](https://github.com/revel/revel) 框架的中文社区
   - [Go Forum:](https://forum.golangbridge.org/) Go 语言爱好者英文交流论坛
