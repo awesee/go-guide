@@ -7,13 +7,13 @@ The Go programming language is an open source project to make programmers more p
   - [社区论坛](#社区论坛)
 
 ## 基础学习
-  - [官方文档](https://golang.org/doc/){:target="_blank"} [Golang](https://golang.google.cn/){:target="_blank"}
+  - [官方文档](https://golang.google.cn/doc/){:target="_blank"} [Golang](https://golang.google.cn/){:target="_blank"}
   - [Go wiki](https://github.com/golang/go/wiki){:target="_blank"}
-  - [How to Write Go Code](https://golang.org/doc/code.html){:target="_blank"}
-  - [Package Documentation:](https://golang.org/pkg/){:target="_blank"} The documentation for the Go standard library.
-  - [Package builtin](https://golang.org/pkg/builtin/){:target="_blank"}
-  - [Command Documentation:](https://golang.org/doc/cmd){:target="_blank"} The documentation for the Go tools.
-  - [Language Specification:](https://golang.org/ref/spec){:target="_blank"} The official Go Language specification.
+  - [How to Write Go Code](https://golang.google.cn/doc/code.html){:target="_blank"}
+  - [Package Documentation:](https://golang.google.cn/pkg/){:target="_blank"} The documentation for the Go standard library.
+  - [Package builtin](https://golang.google.cn/pkg/builtin/){:target="_blank"}
+  - [Command Documentation:](https://golang.google.cn/doc/cmd){:target="_blank"} The documentation for the Go tools.
+  - [Language Specification:](https://golang.google.cn/ref/spec){:target="_blank"} The official Go Language specification.
   - [Go 文档](https://go-zh.org/doc/){:target="_blank"}
   - [Go 指南](https://tour.go-zh.org/list){:target="_blank"}
   - [在线练习](https://tour.go-zh.org/welcome/1){:target="_blank"}
