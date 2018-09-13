@@ -12,9 +12,13 @@ func main() {
 	var hex string
 	fmt.Print("请输入16进制字符串：")
 	fmt.Scanf("%s", &hex)
+	l := len(hex)
+	if l&1 == 1 {
+		hex = "0" + hex
+	}
 
 	buf := new(bytes.Buffer)
-	for i, l := 0, len(hex); i < l; i += 2 {
+	for i := 0; i < l; i += 2 {
 		h := hex[i : i+2]
 		num, _ := strconv.ParseUint(h, 16, 0)
 		buf.Write([]byte{byte(num)})
