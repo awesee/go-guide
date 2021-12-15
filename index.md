@@ -7,7 +7,7 @@ The Go programming language is an open source project to make programmers more p
   - [社区论坛](#社区论坛)
 
 ## 基础学习
-  - [官方文档](https://go.dev/){:target="_blank"} [Golang](https://go.dev/){:target="_blank"}
+  - [官方文档](https://go.dev/){:target="_blank"}
   - [Go wiki](https://github.com/golang/go/wiki){:target="_blank"}
   - [How to Write Go Code](https://go.dev/doc/code.html){:target="_blank"}
   - [Package Documentation:](https://pkg.go.dev/std){:target="_blank"} The documentation for the Go standard library.
