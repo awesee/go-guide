@@ -7,13 +7,13 @@ The Go programming language is an open source project to make programmers more p
   - [社区论坛](#社区论坛)
 
 ## 基础学习
-  - [官方文档](https://golang.google.cn/doc/){:target="_blank"} [Golang](https://golang.google.cn/){:target="_blank"}
+  - [官方文档](https://go.dev/){:target="_blank"} [Golang](https://go.dev/){:target="_blank"}
   - [Go wiki](https://github.com/golang/go/wiki){:target="_blank"}
-  - [How to Write Go Code](https://golang.google.cn/doc/code.html){:target="_blank"}
-  - [Package Documentation:](https://golang.google.cn/pkg/){:target="_blank"} The documentation for the Go standard library.
-  - [Package builtin](https://golang.google.cn/pkg/builtin/){:target="_blank"}
-  - [Command Documentation:](https://golang.google.cn/doc/cmd){:target="_blank"} The documentation for the Go tools.
-  - [Language Specification:](https://golang.google.cn/ref/spec){:target="_blank"} The official Go Language specification.
+  - [How to Write Go Code](https://go.dev/doc/code.html){:target="_blank"}
+  - [Package Documentation:](https://pkg.go.dev/std){:target="_blank"} The documentation for the Go standard library.
+  - [Package builtin](https://pkg.go.dev/builtin){:target="_blank"}
+  - [Command Documentation:](https://go.dev/doc/cmd){:target="_blank"} The documentation for the Go tools.
+  - [Language Specification:](https://go.dev/ref/spec){:target="_blank"} The official Go Language specification.
   - [Go 文档](https://go-zh.org/doc/){:target="_blank"}
   - [Go 指南](https://tour.go-zh.org/list){:target="_blank"}
   - [在线练习](https://tour.go-zh.org/welcome/1){:target="_blank"}
@@ -27,7 +27,7 @@ The Go programming language is an open source project to make programmers more p
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index){:target="_blank"}
   - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md){:target="_blank"}
   - [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example){:target="_blank"}
-  - [Go for PHPer](https://openset.github.io/php2go/){:target="_blank"}
+  - [Go for PHPer](https://awesee.github.io/php2go/){:target="_blank"}
   - [web 开发](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md){:target="_blank"}
   - [Go 语言包管理](https://gopm.io/){:target="_blank"}
   - [XORM:](http://xorm.io/){:target="_blank"} 简单而强大的 Go 语言ORM框架
