@@ -1,4 +1,4 @@
-# [Go 指南](https://openset.github.io/go-guide/)
+# [Go 指南](https://awesee.github.io/go-guide/)
 The Go programming language is an open source project to make programmers more productive.
 
 ## 目录
@@ -7,13 +7,13 @@ The Go programming language is an open source project to make programmers more p
   - [社区论坛](#社区论坛)
 
 ## 基础学习
-  - [官方文档](https://golang.google.cn/doc/)
+  - [官方文档](https://go.dev/)
   - [Go wiki](https://github.com/golang/go/wiki)
-  - [How to Write Go Code](https://golang.google.cn/doc/code.html)
-  - [Package Documentation:](https://golang.google.cn/pkg/) The documentation for the Go standard library.
-  - [Package builtin](https://golang.google.cn/pkg/builtin/)
-  - [Command Documentation:](https://golang.google.cn/doc/cmd) The documentation for the Go tools.
-  - [Language Specification:](https://golang.google.cn/ref/spec) The official Go Language specification.
+  - [How to Write Go Code](https://go.dev/doc/code.html)
+  - [Package Documentation:](https://pkg.go.dev/std) The documentation for the Go standard library.
+  - [Package builtin](https://pkg.go.dev/builtin)
+  - [Command Documentation:](https://go.dev/doc/cmd) The documentation for the Go tools.
+  - [Language Specification:](https://go.dev/ref/spec) The official Go Language specification.
   - [Go 文档](https://go-zh.org/doc/)
   - [Go 指南](https://tour.go-zh.org/list)
   - [在线练习](https://tour.go-zh.org/welcome/1)
@@ -27,7 +27,7 @@ The Go programming language is an open source project to make programmers more p
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
   - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
   - [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-  - [Go for PHPer](https://openset.github.io/php2go/)
+  - [Go for PHPer](https://awesee.github.io/php2go/)
   - [web 开发](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
   - [Go 语言包管理](https://gopm.io/)
   - [XORM:](http://xorm.io/) 简单而强大的 Go 语言ORM框架
