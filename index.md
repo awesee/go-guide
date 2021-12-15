@@ -1,4 +1,4 @@
-# [Go 指南](https://openset.github.io/go-guide/)
+# [Go 指南](https://awesee.github.io/go-guide/)
 The Go programming language is an open source project to make programmers more productive.
 
 ## 目录
