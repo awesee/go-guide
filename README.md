@@ -1,1 +1,1 @@
-# &copy;2022 Awesee. All rights reserved.
+# &copy;2024 Awesee. All rights reserved.
